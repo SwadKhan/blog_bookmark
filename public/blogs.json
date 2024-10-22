@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/j325R2m/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "title": "Exploring the Future of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/54QSfK6/kimson-doan-HD8-Kly-WRYYM-unsplash.jpg",
+      "posted_date": "Sep 15, 2024 (1 month 7 days ago)",
+      "reading_time": 7,
+      "hashtags": ["tech", "future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/0fpNyC5/brandi-redd-a-JTi-W00qqt-I-unsplash.jpg",
+      "title": "Top 10 Travel Destinations",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/D9JwzB2/sincerely-media-ylve-Rp-Z8-L1s-unsplash.jpg",
+      "posted_date": "Aug 22, 2024 (2 months 0 days ago)",
+      "reading_time": 5,
+      "hashtags": ["travel", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/4t5LFjk/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+      "title": "The Rise of Electric Vehicles",
+      "author": "Emily Clark",
+      "author_img": "https://i.ibb.co/4j2dWqM/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+      "posted_date": "Jul 10, 2024 (3 months 12 days ago)",
+      "reading_time": 6,
+      "hashtags": ["tech", "sustainability"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Y29Wb6h/florian-klauer-npt-Lmg6jq-Do-unsplash.jpg",
+      "title": "Healthy Eating on a Budget",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/54QSfK6/kimson-doan-HD8-Kly-WRYYM-unsplash.jpg",
+      "posted_date": "Jun 18, 2024 (4 months 4 days ago)",
+      "reading_time": 4,
+      "hashtags": ["health", "budget"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/K90Q3hW/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+      "title": "Mastering Python for Beginners",
+      "author": "Sarah Lee",
+      "author_img": "https://i.ibb.co/D9JwzB2/sincerely-media-ylve-Rp-Z8-L1s-unsplash.jpg",
+      "posted_date": "May 25, 2024 (5 months 27 days ago)",
+      "reading_time": 8,
+      "hashtags": ["coding", "python"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/31pxBp1/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "How to Start a Successful Blog",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/4j2dWqM/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+      "posted_date": "Apr 12, 2024 (6 months 10 days ago)",
+      "reading_time": 6,
+      "hashtags": ["blogging", "content_creation"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/pPCN3w8/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Yoga for Stress Relief",
+      "author": "Olivia Green",
+      "author_img": "https://i.ibb.co/54QSfK6/kimson-doan-HD8-Kly-WRYYM-unsplash.jpg",
+      "posted_date": "Mar 8, 2024 (7 months 14 days ago)",
+      "reading_time": 5,
+      "hashtags": ["yoga", "wellness"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/gT62q0X/efe-kurnaz-Rn-CPi-Xixoo-Y-unsplash.jpg",
+      "title": "The Best Gadgets of 2024",
+      "author": "James Williams",
+      "author_img": "https://i.ibb.co/D9JwzB2/sincerely-media-ylve-Rp-Z8-L1s-unsplash.jpg",
+      "posted_date": "Feb 14, 2024 (8 months 8 days ago)",
+      "reading_time": 7,
+      "hashtags": ["gadgets", "tech"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/KD7gHpD/laura-vinck-Hyu76lo-QLdk-unsplash.jpg",
+      "title": "Photography Tips for Beginners",
+      "author": "Sophia Martinez",
+      "author_img": "https://i.ibb.co/4j2dWqM/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+      "posted_date": "Jan 5, 2024 (9 months 17 days ago)",
+      "reading_time": 6,
+      "hashtags": ["photography", "beginner"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/68c4FFF/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
+      "title": "How to Build a Personal Brand",
+      "author": "Liam Davis",
+      "author_img": "https://i.ibb.co/54QSfK6/kimson-doan-HD8-Kly-WRYYM-unsplash.jpg",
+      "posted_date": "Dec 20, 2023 (10 months 2 days ago)",
+      "reading_time": 5,
+      "hashtags": ["branding", "personal_development"]
+    }
+  ]
+  
